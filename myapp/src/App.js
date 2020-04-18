@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Ninjas from './Ninjas'
+import React, { Component } from "react";
+import Ninjas from "./Ninjas";
 
 class App extends Component {
   render() {
@@ -8,6 +8,7 @@ class App extends Component {
         <h1>My first React app</h1>
         <Ninjas name="Yoshi" age="20" belt="green" />
         <Ninjas name="Ryu" age="30" belt="black" />
+        <Ninjas name="Toshi" age="33" belt="orange" />
       </div>
     );
   }
