@@ -1,5 +1,19 @@
 body {
-  margin: 20px;
-  padding: 0;
-  font-family: sans-serif;
+	margin: 1rem 2rem;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+div.ninja {
+	padding: 1rem 2rem;
+	border-bottom: 1px solid #aaa;
+}
+
+h4 {
+	color: tomato;
+}
+
+p {
+	padding: 0 2rem;
+	color: gray;
 }
