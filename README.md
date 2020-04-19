@@ -33,3 +33,8 @@ The course files for the React &amp; Redux Complete tutorial playlist on [The Ne
 ## Lesson 19
 
 [![Net Ninja](http://img.youtube.com/vi/UmuLW78biBw/0.jpg)](http://www.youtube.com/watch?v=UmuLW78biBw 'Video 19 -- Deleting Data')
+
+
+## Lesson 20
+
+[![Net Ninja](http://img.youtube.com/vi/NFYJZyZIa70/0.jpg)](http://www.youtube.com/watch?v=NFYJZyZIa70 'Video 20 -- Recap & Virtual DOM')
