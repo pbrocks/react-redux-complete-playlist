@@ -15,7 +15,8 @@ h4 {
 	color: tomato;
 }
 
-p {
-	padding: 0 2rem;
+p,
+form {
+	padding: 1rem 2rem;
 	color: gray;
 }
